@@ -1,0 +1,5 @@
+users
+releases/builds
+server/http/certs
+neurakube-darwin-amd64
+**/.DS_Store
