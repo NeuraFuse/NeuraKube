@@ -1,7 +1,7 @@
 package server
 
 import (
-	"./http"
+	"github.com/neurafuse/neurakube/server/http"
 )
 
 type F struct{}

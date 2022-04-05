@@ -1,5 +1,6 @@
 users
 releases/builds
 server/http/certs
-neurakube-darwin-amd64
+neurakube
+neurakube-linux-amd64
 **/.DS_Store
